@@ -19,8 +19,11 @@ export default function When() {
           >
             Date
           </Heading>
-          <Heading as="h2" fontFamily={"Jeanne Moderno"} py={2}>
-            Saturday, May 14th, 2022
+          <Heading as="h2" fontSize={"3rem"} fontFamily={"Jeanne Moderno"}>
+            Saturday
+          </Heading>
+          <Heading as="h2" fontSize={"3rem"} fontFamily={"Jeanne Moderno"}>
+            May 14th, 2022
           </Heading>
           <Text opacity={0.8}>
             That{"'"}s{" "}
