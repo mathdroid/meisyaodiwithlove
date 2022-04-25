@@ -53,7 +53,7 @@ export default function Where() {
               >
                 Loading map...
               </Text>
-              <CircularProgress isIndeterminate />
+              <CircularProgress isIndeterminate color="#aa3007" />
             </Stack>
           </Grid>
         )}
