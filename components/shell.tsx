@@ -23,7 +23,7 @@ export function Shell({
         position={"fixed"}
         // bottom={8}
         bottom={0}
-        py={8}
+        py={4}
         width="100%"
         maxW={"48rem"}
         justifyContent="space-evenly"
