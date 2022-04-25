@@ -6,17 +6,8 @@ export default function RSVP() {
   return (
     <Shell textColor="rgb(122, 61, 124)">
       <Stack width="100%" maxW="48rem" px={2} pb={32}>
-        <Heading
-          as="h1"
-          fontSize={"sm"}
-          fontWeight="normal"
-          textTransform={"uppercase"}
-          py={2}
-        >
-          RSVP
-        </Heading>
         <Heading as="h2" fontFamily={"Jeanne Moderno"} py={4}>
-          You are invited!
+          Received an invitation? Confirm below.
         </Heading>
         <Text>
           Unfortunately, pandemic wedding restrictions still apply. That means,
@@ -41,7 +32,7 @@ export default function RSVP() {
               size={"sm"}
               width={"100%"}
             >
-              RSVP
+              RSVP here
             </Button>
           </Flex>
         </PopupButton>
