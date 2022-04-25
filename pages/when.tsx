@@ -62,6 +62,8 @@ export default function When() {
                 startTime: "15:30:00",
                 endDate: "2022-05-14",
                 endTime: "17:30:00",
+                location:
+                  "Pullman Jakarta Central Park, Podomoro City, Jl. Letjen S. Parman No.Kav 28, RT.12/RW.6, Tj. Duren Sel., Kec. Grogol petamburan, Jakarta, Daerah Khusus Ibukota Jakarta 11470, Indonesia",
                 options: [
                   "Apple",
                   "Google",
@@ -103,6 +105,9 @@ export default function When() {
                 startTime: "19:00:00",
                 endDate: "2022-05-14",
                 endTime: "21:00:00",
+
+                location:
+                  "Pullman Jakarta Central Park, Podomoro City, Jl. Letjen S. Parman No.Kav 28, RT.12/RW.6, Tj. Duren Sel., Kec. Grogol petamburan, Jakarta, Daerah Khusus Ibukota Jakarta 11470, Indonesia",
                 options: [
                   "Apple",
                   "Google",
