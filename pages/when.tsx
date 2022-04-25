@@ -23,7 +23,7 @@ export default function When() {
             Saturday, May 14th, 2022
           </Heading>
           <Text opacity={0.8}>
-            That's{" "}
+            That{"'"}s{" "}
             {formatDistance(
               new Date("2022-05-14T15:30:00.000+07:00"),
               new Date(),
