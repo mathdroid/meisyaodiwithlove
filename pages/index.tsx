@@ -6,7 +6,7 @@ export default function Home() {
     <Shell backgroundColor="#ee6ab7" textColor="#322926">
       <Flex
         position={"fixed"}
-        bottom={24}
+        bottom={16}
         direction="column"
         background="#ee6ab7"
         alignItems={"center"}
